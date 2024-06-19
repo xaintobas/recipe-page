@@ -55,8 +55,9 @@ h2 {
   margin-top: 5rem;
 }
 
-h3{
+.preparation-time > p{
   color: var(--color-dark-raspberry);
+  font-weight: bold;
 }
 
 p{
@@ -125,6 +126,9 @@ td{
     max-width: 100%;
   }
 
+  .preparation-time > p{
+    font-size: 2.5rem;
+  }
   p{
     font-size: 1.5rem;
   }
